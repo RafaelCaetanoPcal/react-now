@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RafaelCaetanoPcal/react-now/static/css/main.73389a6b.css",
+    "main.js": "/RafaelCaetanoPcal/react-now/static/js/main.31207024.js",
+    "static/media/Group.png": "/RafaelCaetanoPcal/react-now/static/media/Group.20425e7d15b2460e7958.png",
+    "static/media/swimmer.png": "/RafaelCaetanoPcal/react-now/static/media/swimmer.8553cb0e35e19ff33b70.png",
+    "index.html": "/RafaelCaetanoPcal/react-now/index.html",
+    "main.73389a6b.css.map": "/RafaelCaetanoPcal/react-now/static/css/main.73389a6b.css.map",
+    "main.31207024.js.map": "/RafaelCaetanoPcal/react-now/static/js/main.31207024.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73389a6b.css",
+    "static/js/main.31207024.js"
+  ]
+}
